@@ -17,6 +17,6 @@ a Computer Science Engineering Undergraduate Student.
 ![](https://github-profile-trophy.vercel.app/?username=vimalpremkumar&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vimalpremkumar&icon=8&color=10)]([https://visitcount.itsvg.in](https://vimalpremkumar.github.io/)https://vimalpremkumar.github.io/)
+[![](https://visitcount.itsvg.in/api?id=vimalpremkumar&icon=8&color=10)](https://visitcount.itsvg.in](https://vimalpremkumar.github.io/)https://vimalpremkumar.github.io/)
 
 
