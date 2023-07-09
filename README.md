@@ -2,7 +2,7 @@
 a Computer Science Engineering Undergraduate Student.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/vimal-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal-p" height="40" width="50" /></a>
 <a href="https://instagram.com/___vimal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___vimal_" height="40" width="50" /></a>
